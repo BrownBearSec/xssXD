@@ -1,4 +1,4 @@
-module github.com/noobexploiter/xssXD
+module github.com/iamSm9l/xssXD
 
 go 1.14
 
