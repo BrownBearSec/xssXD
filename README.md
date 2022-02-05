@@ -3,7 +3,7 @@
 A tool made to detect xss vulnerablities in a list of urls. It takes input from the stdin.
 
 # How to install 
-```go get github.com/noobexploiter/xssXD```
+```go get github.com/iamSm9l/xssXD```
 
 # How to use
 ```
